@@ -1,0 +1,13 @@
+{
+  "name": "yarn-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/junsun0708/yarn-monorepo.git",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "prj1",
+    "prj2",
+    "core"
+  ]
+}
